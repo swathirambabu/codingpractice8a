@@ -1,3 +1,13 @@
+//create table todo(id integer,todo text, priority text,status text);
+/*insert into todo(id,todo ,priority,status)
+values(1,"Learn HTML","HIGH","TO DO"),
+(2,"Learn JS","MEDIUM","DONE"),
+(3,"Learn CSS","LOW","DONE"),
+(4,"Play CHESS","LOW","DONE");
+select * from todo;
+
+*/
+
 const express = require("express");
 const path = require("path");
 
